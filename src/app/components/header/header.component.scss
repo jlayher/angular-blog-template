@@ -1,0 +1,16 @@
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100vw;
+  min-height: 10vh;
+
+  background-color: rgb(189, 195, 195);
+  .header_title {
+    font-size: 22px;
+  }
+  .header_slogan {
+    font-size: 16px;
+  }
+}
